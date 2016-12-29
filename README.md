@@ -25,5 +25,5 @@ apt-get install screen
 ```
 Ler mais sobre (docker)[[https://docs.docker.com/compose/gettingstarted/]].
 # Referencias
-- (GNU Screen)[https://en.wikipedia.org/wiki/GNU_Screen] - (Site oficial)[https://www.gnu.org/software/screen/]
-- (Docker)[https://www.docker.com/what-docker]
+- [GNU Screen](https://en.wikipedia.org/wiki/GNU_Screen) - [Site oficial](https://www.gnu.org/software/screen/)
+- [Docker](https://www.docker.com/what-docker)
