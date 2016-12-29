@@ -23,7 +23,7 @@ Depois inserirmos o usuário na sessão ``` screen -r user ```.
 ```
 apt-get install screen
 ```
-Ler mais sobre (docker)[[https://docs.docker.com/compose/gettingstarted/]].
+Ler mais sobre [docker](https://docs.docker.com/compose/gettingstarted/).
 # Referencias
 - [GNU Screen](https://en.wikipedia.org/wiki/GNU_Screen) - [Site oficial](https://www.gnu.org/software/screen/)
 - [Docker](https://www.docker.com/what-docker)
